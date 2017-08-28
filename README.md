@@ -1,10 +1,17 @@
 
 
 
-Static front end website using *Metalsmith* as a static site generator,
-and Gulp to automate building the site.
+
+Personal website made for fictional company known as *RoyCo Roofing & Construction*.
+This company is frequently mentiond on the online prank call show [Phone Losers of America](https://www.youtube.com/user/phonelosersofamerica)  
 
 
+The site is generated using *Metalsmith* as a static site generator,
+and Gulp to automate building the site.  
+
+---
+
+In loving memory of Roy Gerbil **Cactus Cactus**
 
 
 ## Build Process

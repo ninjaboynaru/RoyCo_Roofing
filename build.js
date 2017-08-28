@@ -11,5 +11,5 @@ var layoutOptions = {engine:'handlebars', directory:'./layouts'};
 
 workingSmith.use(Markdown() );
 workingSmith.use(Layout(layoutOptions) );
-workingSmith.destination('./build');
+workingSmith.destination('./docs');
 workingSmith.build(function(error){if(error){console.log(error)} } );

@@ -17,6 +17,7 @@ In loving memory of Roy Gerbil **Cactus Cactus**
 ## Build Process
 - Run **node build.js** to build the site.
 - Run **npm run auto-build** to auto build the site anytime a file is changed.
+- Output files are in the */docs* folder.
 
 ## Build Asumptions
 - Build/Metalsmith options and code in **build.js**

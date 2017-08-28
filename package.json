@@ -1,0 +1,21 @@
+{
+	"name": "royco_website",
+	"private": true,
+	"dependencies": {
+		"metalsmith": "latest",
+		"metalsmith-markdown": "latest",
+		"metalsmith-layouts": "latest",
+		"handlebars": "latest"
+	},
+	"devDependencies": {
+		"gulp": "latest",
+		"gulp-run": "latest"
+	},
+	"scripts": {
+		"build": "node build.js",
+		"auto-build": "gulp auto-build"
+	}
+}
+
+
+
